@@ -1,2 +1,2 @@
 # DivFolio
-website divfolio by using html and css
+website divfolio by using html,css and bootstrap
